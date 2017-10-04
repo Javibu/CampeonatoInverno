@@ -21,7 +21,10 @@ li a {
 li a:hover {
     background-color: #111111;
 }
-
+.centraLogo{
+    margin:10px auto;
+    display:block;
+    }
 
 /*--html, body, div, iframe { margin:0; padding:0; height:100%; }
 iframe { display:block; width:100%; border:none; }*/
